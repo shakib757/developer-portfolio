@@ -80,8 +80,9 @@ main{
 }
 .section-title{
 
-margin-bottom: 30px;
+margin-bottom: 50px;
 font-size: 35px;
+text-align: center;
 }
 .section-dc{
     color: #757575;
@@ -102,3 +103,28 @@ font-size: 35px;
     font-size: 20px;
     color:#474747;
 }
+/* what i do styles */
+section{
+margin-top: 130px;
+}
+
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.skill{
+    background: #ffffff;
+    box-shadow: 0px 6px 50px rgb(0,0,0,0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.skill-description{
+    color:#757575
+}
+/* resume styles */
